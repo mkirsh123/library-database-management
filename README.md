@@ -4,6 +4,6 @@ This project is a SQL-based Library Management System that allows you to manage 
 
 ## Project Structure
 ### The project consists of the following SQL files:
-create_tables.sql: Contains SQL statements to create the necessary tables.
-populate_tables.sql: Contains SQL statements to populate the tables with initial data.
-queries.sql: Contains SQL statements to retrieve and update the data.
+    create_tables.sql: Contains SQL statements to create the necessary tables.
+    populate_tables.sql: Contains SQL statements to populate the tables with initial data.
+    queries.sql: Contains SQL statements to retrieve and update the data.
