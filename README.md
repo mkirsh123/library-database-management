@@ -1,4 +1,4 @@
-# Library Management System
+# Library Database Management System
 ## Overview
 This project is a SQL-based Library Management System that allows you to manage books, publishers, library branches, borrowers, book loans, book copies, and book authors. It includes SQL scripts to create the necessary tables, populate them with initial data, and perform various queries.
 
