@@ -4,6 +4,21 @@ This project is a SQL-based Library Management System that allows you to manage 
 
 ## Project Structure
 ### The project consists of the following SQL files:
-    create_tables.sql: Contains SQL statements to create the necessary tables.
-    populate_tables.sql: Contains SQL statements to populate the tables with initial data.
-    queries.sql: Contains SQL statements to retrieve and update the data.
+    create_tables.sql    : Contains SQL statements to create the necessary tables.
+    populate_tables.sql  : Contains SQL statements to populate the tables with initial data.
+    queries.sql          : Contains SQL statements to retrieve and update the data.
+
+## Queries
+### The queries.sql file includes various queries to:
+    Show all tables
+    Retrieve data from each table
+    Retrieve books and publisher information
+    Retrieve books by a specific publisher
+    Count books taken by each person
+    Count people in fee impose list by branch
+    Update the number of copies remaining
+
+## Team Members:
+
+- [Rama krishna](https://github.com/mkirsh123/)
+- [sai sri Charan](https://github.com/charan-nitw-26)
