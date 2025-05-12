@@ -18,7 +18,6 @@ This project is a SQL-based Library Management System that allows you to manage 
     Count people in fee impose list by branch
     Update the number of copies remaining
 
-## Team Members:
+## Done By:
 
 - [Rama Krishna Reddy](https://github.com/mkirsh123/)
-- [Sai Sri Charan](https://github.com/charan-nitw-26)
